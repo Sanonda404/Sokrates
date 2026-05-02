@@ -1,6 +1,6 @@
 # 🏛️ SOKRATES — Mind · Body · Wisdom
 
-> *"Friction is not always the enemy — sometimes it is precisely what gives life its deepest flavor."*
+> *"Wisdom begins in the body."*
 > 
 
 
@@ -96,10 +96,10 @@ The pose classifier was built entirely in Google Colab:
 
 ## 💡 Design Philosophy
 
-SOKRATES is built around two types of **intentional friction**:
+SOKRATES is built around two **SDG Goals**:
 
-- **Physical friction** — You must hold a yoga pose to access the chatbot. This anchors you in your body before engaging your mind.
-- **Cognitive friction** — You never get the full answer from our bot.It will train you in socratic method.i.e.It will make you search requestion and go through
+- *SDG 3: Good Health & Well-Being* — You must hold a yoga pose to access the chatbot. This anchors you in your body before engaging your mind.
+- *SDG 4: Quality Education* — You never get the full answer from our bot. It will train you in socratic method.i.e.It will make you search requestion and go through
 -  the process and while u are studying for a quite it will bring the yoga to make you physical heath good .
 -
 -  and also Scroll too fast and the interface gently pushes back, reminding you to read with presence and intention.
