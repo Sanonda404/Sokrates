@@ -3,7 +3,9 @@ export default function WelcomeScreen({ onBegin, posesLoaded }) {
     <div className="welcome">
       <div className="welcome__inner">
         {/* Floating lotus */}
-        <div className="welcome__lotus">🪷</div>
+        <div className="welcome__lotus">
+          <img src="logo.png" alt="Logo" height={150} width={150}/>
+        </div>
         {/* Heading */}
         <h1 className="welcome__title">SOKRATES</h1>
         <p className="welcome__subtitle">Mind · Body · Wisdom</p>
