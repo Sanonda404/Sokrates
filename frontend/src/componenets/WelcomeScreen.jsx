@@ -11,13 +11,14 @@ export default function WelcomeScreen({ onBegin, posesLoaded }) {
         <div className="welcome__card">
           <p className="welcome__card-greeting">Welcome, dear student.</p>
           <p className="welcome__card-body">
-           We ,team Night's Watch believes that friction is not always the enemy —
-            sometimes it is precisely what gives life its deepest flavor. It is
-            the resistance that sharpens your mind, strengthens your learning,
-            and makes every small victory worth smiling about. We focus on two
-            meaningful forms of friction: <strong>cognitive</strong> and{" "}
-            <strong>physical</strong>. And so, before we engage the mind —
-            let us first awaken the body.
+           We, Team Night's Watch believes that true education goes beyond the screen. 
+            To achieve <strong>SDG 4 (Quality Education)</strong>, we must first address 
+            <strong>SDG 3 (Good Health & Well-being)</strong>. We recognize that 
+            the sedentary nature of digital learning is a barrier to both physical health 
+            and cognitive retention. Our platform reintroduces the essential balance 
+            between <strong>physical movement</strong> and <strong>intellectual growth</strong>. 
+            Science shows that a primed body leads to a sharper mind—so, before we engage 
+            the intellect, let us first awaken the body.
           </p>
           <p className="welcome__card-body">
             You will be guided through a short <strong>Yoga</strong> pose. Hold
